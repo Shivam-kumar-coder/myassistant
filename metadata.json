@@ -1,0 +1,6 @@
+{
+  "name": "My Assistant",
+  "description": "Simplified mobile AI assistant for navigating apps and government portals in India.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
